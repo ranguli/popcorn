@@ -1,4 +1,4 @@
-FROM python:alpine3.8
+FROM python:alpine3.7
 MAINTAINER Joshua Murphy "hello@joshmurphy.ca"
 
 WORKDIR /app
